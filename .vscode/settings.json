@@ -1,6 +1,7 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "/Users/dylanbaer/Desktop/Home/10th Grade/AP CSA/GW/gridworld.jar"
+        "/Users/dylanbaer/Desktop/Home/10th Grade/AP CSA/GW/gridworld.jar",
+        "/Users/landonburchill/Downloads/BPC/lib/gridworld.jar"
     ]
 }
